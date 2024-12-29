@@ -16,7 +16,7 @@ int main()
 
   if (file_stream == NULL)
   {
-    printf("Error opening file\n");
+    printf("Error while opening file\n");
     return 1;
   }
 
